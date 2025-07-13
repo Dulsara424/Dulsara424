@@ -27,7 +27,7 @@
 ## 📫 Connect With Me
 - 📧 Email: disable_for_secure_resons@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/dulsara-prasad](linkedin.com/in/dulsara-prasad-b63145371)  
-- 🐦 Twitter: [disable_for_secure_resons) 
+- 🐦 Twitter: [disable_for_secure_resons]() 
 ## ⚡ Fun Fact
 > "Even a few lines of code can create real-world impact — one project at a time." 🚀
 
